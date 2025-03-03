@@ -1,10 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Samuel Bitencourt</h1>
 
 <p align="center">
-  <img src="https://github.com/samuel9395.png" alt="Avatar do Samuel Bitencourt">
-</p>
-
-<p align="center">
   Desenvolvedor Frontend Jr apaixonado por tecnologia e desenvolvimento web.
 </p>
 
