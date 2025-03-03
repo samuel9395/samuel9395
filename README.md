@@ -27,10 +27,10 @@
 
 ### 📫 Contato
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <a href="https://www.linkedin.com/in/samuelb2f/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn">
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:samuelb2f@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
