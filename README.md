@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Samuel Bitencourt</h1>
 
 <p align="center">
-  <img src="https://github.com/samuel9395.png" width="150" style="border-radius: 50%;" alt="Avatar do Samuel Bitencourt">
+  <img src="https://github.com/samuel9395.png" alt="Avatar do Samuel Bitencourt">
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native">
 </p>
 
 #### 🛠️ Backend
