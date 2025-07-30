@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Samuel Bitencourt</h1>
 
 <p align="center">
-  Desenvolvedor Frontend Jr apaixonado por tecnologia e desenvolvimento web.
+  Desenvolvedor Frontend apaixonado por tecnologia e desenvolvimento web.
 </p>
 
 ---
