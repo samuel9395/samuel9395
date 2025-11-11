@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=ff00ff&size=25&center=true&vCenter=true&width=500&height=40&duration=3000&lines= JAVA+DEVELOPER+|+TRAINEE+|+BACKEND" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=ff00ff&size=25&center=true&vCenter=true&width=600&height=40&duration=5000&lines=JAVA+DEVELOPER+|+TRAINEE+|+BACKEND" />
 </h3>
 
 <div align="center">
