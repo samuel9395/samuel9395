@@ -23,7 +23,7 @@
 - 📚 **Java COMPLETO Programação Orientada a Objetos** - Udemy
 - 🏢 **Experiência anterior:** Analista de Monitoração Pleno - NAVA
 - 🔭 **Estudando:** Spring Boot, Docker e AWS
-- 📫 **Contato:** `samuelb2f@outlook.com` | `(11) 95773-3587`
+<!-- - 📫 **Contato:** `samuelb2f@outlook.com` | `(11) 95773-3587` -->
 
 ---
 
