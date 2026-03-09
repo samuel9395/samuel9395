@@ -74,6 +74,7 @@
 - **Linux Fundamentals** - DIO
 - **Docker Fundamentals** - DIO
 - **Kubernetes Fundamentals** - DIO
+- **SQL Database Specialist** - DIO
 - **AWS Certified Cloud Practitioner** - Udemy
 
 ---
